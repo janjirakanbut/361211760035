@@ -9,7 +9,7 @@ public class myCode {
         System.out.println("Janjira Kanbut");
         System.out.println("361211760035");
         System.out.println("MIT211");
-        System.out.println("Rmutsv");
+
     }  //main
 
 
